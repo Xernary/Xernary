@@ -1,4 +1,4 @@
-## About me
+# About me
 
 Computer Science student interested in Cybersecurity
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 </br>
 
-## Projects
+# Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=internet-security-project&theme=dracula)](https://github.com/Xernary/intetner-security-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=Note-app&theme=dracula)](https://github.com/Xernary/Note-app)
