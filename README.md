@@ -1,7 +1,10 @@
 ## About me
 
-Computer Science student interested in cybersecurity
+Computer Science student interested in Cybersecurity
 
+From Italy
+
+---
 <!--
 **Xernary/Xernary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
