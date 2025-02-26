@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+Computer Science student interested in cybersecurity
 
 <!--
 **Xernary/Xernary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Xernary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xernary&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project&theme=dracula)
