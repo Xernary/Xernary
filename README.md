@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=internet-security-project&theme=nord)](https://github.com/Xernary/intetner-security-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=internet-security-project&theme=nord)](https://github.com/Xernary/intetnet-security-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=Note-app&theme=nord)](https://github.com/Xernary/Note-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=usb-helper&theme=nord)](https://github.com/Xernary/usb-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=mandelbrot2&theme=nord)](https://github.com/Xernary/mandelbrot2)
