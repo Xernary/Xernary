@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=internet-security-project&theme=nord)](https://github.com/Xernary/internet-security-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=dotfile&theme=nord)](https://github.com/Xernary/dotfiles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=dotfiles&theme=nord)](https://github.com/Xernary/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=usb-helper&theme=nord)](https://github.com/Xernary/usb-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=mandelbrot2&theme=nord)](https://github.com/Xernary/mandelbrot2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xernary&repo=OWASP-A06-BOF&theme=nord)](https://github.com/Xernary/OWASP-A06-BOF)
