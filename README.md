@@ -1,6 +1,7 @@
 # About me
 
-Computer Science student interested in Cybersecurity </br>
+Computer Science Graduate </br>
+Cybersecurity </br>
 From Italy
 
 
