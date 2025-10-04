@@ -1,7 +1,7 @@
 # About me
 
 Computer Science Graduate </br>
-Cybersecurity </br>
+Focused on Cybersecurity </br>
 From Italy
 
 
@@ -57,16 +57,7 @@ From Italy
 ---
 </br>
 
-### Prevews
 
-![image](mandelbrot.jpg)</br>
-from mandelbrot2
-
-![image](image4.png)</br>
-from dotfiles
-
-![image](notes.png)</br>
-from Note-app
 
 
 
