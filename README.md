@@ -5,7 +5,7 @@ Cybersecurity </br>
 From Italy
 
 
----
+
 
 <div align="left" style="background-color:#0d1117; padding:20px; border-radius:12px;">
 
@@ -41,10 +41,18 @@ From Italy
 
 </div>
 
----
+### 📊 GitHub Stats
 
-![Xernary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xernary&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project&theme=nord)
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xernary&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project&theme=github_dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 </br>
