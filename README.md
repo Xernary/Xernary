@@ -59,21 +59,3 @@ From Italy
 ![Profile Views](https://komarev.com/ghpvc/?username=Xernary&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
-
-</br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
