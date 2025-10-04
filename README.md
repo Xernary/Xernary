@@ -14,11 +14,11 @@ From Italy
 
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D35400?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ARM/x86 Assembly](https://img.shields.io/badge/ARM/x86_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ARM/x86 Assembly](https://img.shields.io/badge/ARM/x86-27AE60?style=for-the-badge&logo=arm&logoColor=white)
 
 
 ### 🧰 Tools
@@ -26,7 +26,7 @@ From Italy
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FCC624?style=for-the-badge&logo=ghidra&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-007396?style=for-the-badge&logo=ghidra&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-5E5E5E?style=for-the-badge&logo=gnu&logoColor=white)
 ![Pwntools](https://img.shields.io/badge/Pwntools-9400D3?style=for-the-badge&logo=python&logoColor=white)
 
@@ -34,8 +34,8 @@ From Italy
 ### ⚔️ Skills
 
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8E44AD?style=for-the-badge&logo=linux&logoColor=white)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-27AE60?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-D35400?style=for-the-badge&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-D35400?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability_Analysis-27AE60?style=for-the-badge&logo=owasp&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-1ABC9C?style=for-the-badge&logo=cisco&logoColor=white)
 
 
@@ -54,7 +54,12 @@ From Italy
   </tr>
 </table>
 
----
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xernary&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
+
 </br>
 
 
