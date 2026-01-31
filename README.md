@@ -1,8 +1,8 @@
 # About me
 
 Computer Science Graduate </br>
-Focused on Cybersecurity </br>
-From Italy
+Cybersecurity </br>
+
 
 
 
