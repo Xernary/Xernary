@@ -49,7 +49,7 @@ Cybersecurity </br>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xernary&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project&theme=github_dark&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project,nico-blog&theme=github_dark&hide_border=true" />
     </td>
   </tr>
 </table>
