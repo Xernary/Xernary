@@ -10,7 +10,7 @@ Cybersecurity </br>
 <div align="left" style="background-color:#0d1117; padding:20px; border-radius:12px;">
 
 
-### 🧩 Programming Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -21,7 +21,7 @@ Cybersecurity </br>
 ![ARM/x86 Assembly](https://img.shields.io/badge/ARM/x86-27AE60?style=for-the-badge&logo=arm&logoColor=white)
 
 
-### 🧰 Tools
+### Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
@@ -31,7 +31,7 @@ Cybersecurity </br>
 ![Pwntools](https://img.shields.io/badge/Pwntools-9400D3?style=for-the-badge&logo=python&logoColor=white)
 
 
-### ⚔️ Skills
+### Skills
 
 ![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8E44AD?style=for-the-badge&logo=linux&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-D35400?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -41,21 +41,3 @@ Cybersecurity </br>
 
 </div>
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xernary&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xernary&layout=compact&exclude_repo=Note-app,cc,Data-mining-project,nico-blog&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xernary&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-</div>
